@@ -27,13 +27,13 @@
                         </div>
                         <div class="col-lg-9 col-md-8">
                             <div class="row">
-                                <div class="col-md mt-4">
+                                <div class="col mt-4">
                                     <a class="btn btn-block" href="about.php">
                                         <i class="fa-solid fa-address-card txt-48"></i>
                                         <div class="txt-22">Profil</div>
                                     </a>
                                 </div>
-                                <div class="col-md mt-4">
+                                <div class="col mt-4">
                                     <a class="btn btn-block" href="portfolio.php">
                                         <i class="fa-solid fa-book txt-48"></i>
                                         <div class="txt-22">Portfolio</div>
