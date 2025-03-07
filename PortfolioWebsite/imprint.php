@@ -24,28 +24,28 @@
                     <h3 class="mt-4 text-main">Angaben gemäß § 5 TMG:</h3>
                     <p class="text-main txt-22">Lukas Yeung<br/>
                         Tannenweg 7b<br/>
-                        26340 Zetel<br/></p>
+                        26340 Zetel</p>
                     
-                    <h3 class="mt-4 text-main">Kontakt:</h3>
-                    <p class="text-main txt-22">Telefon: +4917697781367<br/>
+                    <h3 class="mt-5 text-main">Kontakt:</h3>
+                    <p class="text-main txt-22">Telefon: +49 176 97781367<br/>
                         E-Mail: lukasyeung@web.de</p>
                     
-                    <h3 class="mt-4 text-main">Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:</h3>
+                    <h3 class="mt-5 text-main">Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:</h3>
                     <p class="text-main txt-22">Lukas Yeung<br/>
                         Tannenweg 7b<br/>
-                        26340, Zetel<br/></p>
+                        26340 Zetel</p>
                     
-                    <h3 class="mt-4 text-main">Haftungsausschluss:</h3>
+                    <h3 class="mt-5 text-main">Haftungsausschluss:</h3>
                     <h4 class="mt-2 text-main">Haftung für Inhalte</h4>
                     <p class="text-main txt-22">Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit 
                         und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen.</p>
                     
-                    <h4 class="mt-2 text-main">Haftung für Links</h4>
+                    <h4 class="mt-4 text-main">Haftung für Links</h4>
                     <p class="text-main txt-22">Unser Angebot enthält Links zu externen Websites Dritter, auf deren Inhalte wir keinen Einfluss haben.
                         Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten
                         Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich.</p>
                     
-                    <h4 class="mt-2 text-main">Urheberrecht</h4>
+                    <h4 class="mt-4 text-main">Urheberrecht</h4>
                     <p class="text-main txt-22">Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen
                         Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der
                         Grenzen des Urheberrechts bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers.</p>
