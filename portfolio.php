@@ -52,12 +52,12 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="row mt-4">
-                            <div class="col-lg text-center">
+                        <div class="row">
+                            <div class="col-lg text-center mt-3">
                                 <a href=webscraper.php class="btn btn-block text-main txt-22">Demo
                                     <i class="fa-solid fa-arrow-right"></i></a>
                             </div>
-                            <div class="col-lg text-center">
+                            <div class="col-lg text-center mt-3">
                                 <a href=https://github.com/LukasY98/Web-Scraper class="btn btn-block text-main txt-22" target="_blank">Github
                                     <i class="fa-solid fa-arrow-right"></i></a>
                             </div>
@@ -89,12 +89,12 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="row mt-4">
-                            <div class="col-lg text-center">
+                        <div class="row">
+                            <div class="col-lg text-center mt-3">
                                 <a href=adcs.php class="btn btn-block text-main txt-22">Demo
                                     <i class="fa-solid fa-arrow-right"></i></a>
                             </div>
-                            <div class="col-lg text-center">
+                            <div class="col-lg text-center mt-3">
                                 <a href=https://github.com/LukasY98/WIP-Solar-Tracker class="btn btn-block text-main txt-22" target="_blank">Github
                                     <i class="fa-solid fa-arrow-right"></i></a>
                             </div>

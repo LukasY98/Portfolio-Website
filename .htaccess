@@ -1,14 +1,14 @@
 RewriteEngine On
 
-# .php aus der URL entfernen, wenn es direkt verlinkt wird
+# Remove .php from URL if directly linked
 RewriteCond %{THE_REQUEST} \.php [NC]
 RewriteRule ^(.+)\.php$ /$1 [R=301,L]
 
-# Zugriff ohne .php ermöglichen
+# Allow access without .php extension
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}.php -f
 RewriteRule ^(.+)$ $1.php [L]
 
-# /index oder /index.php auf die Hauptseite weiterleiten
+# Redirect /index or /index.php to homepage
 RewriteCond %{THE_REQUEST} /index(\.php)? [NC]
 RewriteRule ^index(\.php)?$ / [R=301,L]
