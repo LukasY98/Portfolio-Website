@@ -45,7 +45,7 @@
                             <div class="col-lg-4">
                                 <div class="px-4">
                                     <h3 class="text-main text-start">Tools</h3>
-                                    <p class="txt-22 text-main"><i class="fa-brands fa-python"></i> Python</p>
+                                    <p class="txt-22 text-main"><i class="fa-solid fa-code"></i> Python</p>
                                     <p class="txt-22 text-main"><i class="fa-solid fa-book-bookmark"></i> BeautifulSoup + Requests</p>
                                     <p class="txt-22 text-main"><i class="fa-solid fa-book-bookmark"></i> Tabulate</p>
                                     <p class="txt-22 text-main"><i class="fa-solid fa-book-bookmark"></i> Matplotlib</p>
@@ -59,6 +59,43 @@
                             </div>
                             <div class="col-lg text-center">
                                 <a href=https://github.com/LukasY98/Web-Scraper class="btn btn-block text-main txt-22" target="_blank">Github
+                                    <i class="fa-solid fa-arrow-right"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mt-4 transparent-background">
+                        <h2 class="mt-3 text-main text-center display-4 ">Attitude Determination & Control System</h2>
+                        <div class="row mt-4">
+                            <div class="col-lg-4">
+                                <div class="px-4">
+                                    <h3 class="text-main">Zusammenfassung</h3>
+                                    <p class="txt-22 text-main">Ein System, das mithilfe von LDR-Sensoren seine Orientierung relativ zur 
+                                        Sonne bestimmt und sich mit einem PID-Algorithmus sowie einem Reaction Wheel präzise darauf ausrichtet.</p>
+                                </div>
+                            </div>
+                            <div class="col-lg-4">
+                                <div class="px-4">
+                                    <h3 class="text-main">Motivation</h3>
+                                    <p class="txt-22 text-main text-start">Eine vereinfachte, praxisnahe Umsetzung eines Systems aus der Satellitentechnik, welches
+                                        verschiedene Konzepte, die in der Satellitenentwicklung eine zentrale Rolle spielen vereint.</p>
+                                </div>
+                            </div>
+                            <div class="col-lg-4">
+                                <div class="px-4">
+                                    <h3 class="text-main text-start">Tools</h3>
+                                    <p class="txt-22 text-main"><i class="fa-solid fa-code"></i> C++</p>
+                                    <p class="txt-22 text-main"><i class="fa-solid fa-square-root-variable"></i> PID-Algorithmus</p>
+                                    <p class="txt-22 text-main"><i class="fa-solid fa-microchip"></i> Eingebettete Systeme</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row mt-4">
+                            <div class="col-lg text-center">
+                                <a href=adcs.php class="btn btn-block text-main txt-22">Demo
+                                    <i class="fa-solid fa-arrow-right"></i></a>
+                            </div>
+                            <div class="col-lg text-center">
+                                <a href=https://github.com/LukasY98/WIP-Solar-Tracker class="btn btn-block text-main txt-22" target="_blank">Github
                                     <i class="fa-solid fa-arrow-right"></i></a>
                             </div>
                         </div>

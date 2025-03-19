@@ -20,7 +20,7 @@
                 <?php include "includes/header.php"; ?>
                 <div class="container">
                     <h1 class="mt-5 display-2 text-main text-center">Lukas Yeung</h1>
-                    <h4 class="mt-3 text-alt text-center">Profile & Portfolio</h4>
+                    <h4 class="mt-3 text-alt text-center">Profil & Portfolio</h4>
                     <div class="mt-5 row align-items-center">
                         <div class="col-lg-3 col-md-4 mt-4 text-center">
                             <img class="rounded_img" src="resources/images/profile_picture.jpg">
