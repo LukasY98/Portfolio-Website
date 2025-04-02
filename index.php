@@ -44,7 +44,7 @@
                                 <div class="col-md">
                                     <a class="btn btn-block" href="contact.php">
                                         <i class="fa-solid fa-comment txt-48"></i>
-                                        <div class="txt-22">Contact</div>
+                                        <div class="txt-22">Kontakt</div>
                                     </a>
                                 </div>
                             </div>
